@@ -12,10 +12,10 @@ A little info about your project and/ or overview that explains what the project
     + [Diagram/Flowchart](#diagram-flowchart)
     + [Design](#design)
       - [Module 1](#module-1)
+        * [API Reference](#api-reference)
         * [Description](#description-1)
         * [Code style](#code-style)
         * [Code Example](#code-example)
-  * [API Reference](#api-reference)
   * [Tests](#tests)
   * [Credits](#credits)
 
@@ -49,6 +49,9 @@ https://github.com/Guillermonse/Readme-Template/blob/3c188488e7e68ba6c4667212604
 
 #### Module 1
 
+#### API Reference
+Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+
 ##### Description
 Function of this module, what is its purpose.
 
@@ -57,9 +60,6 @@ If you're using any code style like xo, standard etc. That will help others whil
 
 ##### Code Example
 Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
-
-## API Reference
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
 
 ## Tests
 Describe and show how to run the tests with code examples.
