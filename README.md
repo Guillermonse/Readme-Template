@@ -1,5 +1,24 @@
 # Project Title
 A little info about your project and/ or overview that explains what the project is about.
+
+  * [Description](#description)
+  * [Requirements](#requirements)
+  * [Installation](#installation)
+  * [Features](#features)
+  * [Screenshots](#screenshots)
+  * [How to use? / Quick Use Guide](#how-to-use----quick-use-guide)
+  * [Design/Architecture/Framework (Development)](#design-architecture-framework--development-)
+    + [Build status](#build-status)
+    + [Diagram/Flowchart](#diagram-flowchart)
+    + [Design](#design)
+      - [Module 1](#module-1)
+        * [Description](#description-1)
+        * [Code style](#code-style)
+        * [Code Example](#code-example)
+  * [API Reference](#api-reference)
+  * [Tests](#tests)
+  * [Credits](#credits)
+
 ## Description
 A short description of the motivation behind the creation and maintenance of the project. This should explain why the project exists.
 ## Requirements
