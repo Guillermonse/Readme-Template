@@ -85,6 +85,11 @@ Show what the library does as concisely as possible, developers should be able t
 ## Tests
 Describe and show how to run the tests with code examples.
 
+| Test | Date | Description | Changes | Run Time | Issues | Possible Fixes |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Test #1 | MM/DD/YYYY | Objective of the test | What changes have been implemented since the previous test | How long it took to run the test | Where did the test stop? Did it reach it's goal? | Brainstorm possible solutions |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
 ## Credits
 Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contributed in this project.
 
