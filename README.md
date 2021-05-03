@@ -4,7 +4,7 @@ A little info about your project and/ or overview that explains what the project
   * [Description](#description)
   * [Requirements](#requirements)
   * [Installation](#installation)
-  * [Teamwork](#teamwork)
+  * [Teamwork Guidelines](#teamwork-guidelines)
     + [Teamwork Planning](#teamwork-planning)
     + [Teamwork Files](#teamwork-files)
     + [Teamwork Board](#teamwork-board)
@@ -32,7 +32,7 @@ System requirements to run application
 ## Installation
 Provide step by step series of examples and explanations about how to get a development env running.
 
-## Teamwork
+## Teamwork Guidelines
 
 ### Teamwork Planning
 Maintain a complete overview of all the projects and resources by quantifying hours and accomplishments.
