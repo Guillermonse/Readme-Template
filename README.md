@@ -4,6 +4,10 @@ A little info about your project and/ or overview that explains what the project
   * [Description](#description)
   * [Requirements](#requirements)
   * [Installation](#installation)
+  * [Teamwork](#teamwork)
+    + [Teamwork Planning](#teamwork-planning)
+    + [Teamwork Files](#teamwork-files)
+    + [Teamwork Board](#teamwork-board)
   * [Features](#features)
   * [Screenshots](#screenshots)
   * [How to use? / Quick Use Guide](#how-to-use----quick-use-guide)
@@ -27,6 +31,18 @@ System requirements to run application
 
 ## Installation
 Provide step by step series of examples and explanations about how to get a development env running.
+
+## Teamwork
+
+### Teamwork Planning
+Maintain a complete overview of all the projects and resources by quantifying hours and accomplishments.
+
+### Teamwork Files
+Store project documents and templates for reusable documents, like Unit Tests.
+
+### Teamwork Board
+Visualize project development; how much has been done, what is being worked on and what comes next. The board is divided into a minimum of 3 columns: To-Dos, In Progress and Finished. 
+The backlog is maintained by the Teamwork system itself so no column is necesarry.
 
 ## Features
 What makes your project stand out? 
