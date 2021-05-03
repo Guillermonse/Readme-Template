@@ -41,8 +41,13 @@ Maintain a complete overview of all the projects and resources by quantifying ho
 Store project documents and templates for reusable documents, like Unit Tests.
 
 ### Teamwork Board
-Visualize project development; how much has been done, what is being worked on and what comes next. The board is divided into a minimum of 3 columns: To-Dos, In Progress and Finished. 
-The backlog is maintained by the Teamwork system itself so no column is necesarry.
+Visualize project development; how much has been done, what is being worked on and what comes next. 
+
+The board is divided into a minimum of 3 columns: To-Dos, In Progress and Finished. 
+
+Backlog is maintained by the Teamwork system itself so no column is necesarry.
+
+Teamwork Tasks should be linked to the corresponding section in the Readme.
 
 ## Features
 What makes your project stand out? 
